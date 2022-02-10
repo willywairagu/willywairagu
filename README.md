@@ -6,5 +6,5 @@
 - 💬 Ask me about Data Science & Machine Learning using Python, Embedded ML using TinyML and their applications in IoT.
 - 📫 How to reach me: Email: wairaguwilberforce99@gmail.com
 -                     Linkedin: linkedin.com/in/wilberforce-wairagu-20758b144/
-- ⚡ Fun fact: Assessing Progress by the number of lines of code written is 
-               like assesing thye progress of biulding an aeroplane based on weight.
+- ⚡ Fun fact: Judging Progress by the number of lines of code written is 
+               like using weight to assess the progress of biulding an aircraft.
